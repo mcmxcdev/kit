@@ -54,7 +54,9 @@
     "test-static-prerendered": "0.0.1",
     "test-static-spa": "0.0.1",
     "test-vercel-basic": "0.0.1",
-    "test-build-errors": "0.0.0-next.0"
+    "test-build-errors": "0.0.0-next.0",
+    "test-node-basic": "0.0.1",
+    "prerender-root-non-html-server": "0.0.1"
   },
   "changesets": [
     "blue-plants-work",
@@ -68,8 +70,10 @@
     "early-worlds-slide",
     "easy-shrimps-like",
     "eighty-paws-love",
+    "fast-rooms-move",
     "fine-ghosts-camp",
     "five-readers-march",
+    "fix-form-action-prototype-pollution",
     "fluffy-tires-judge",
     "forty-ducks-fly",
     "gentle-radios-go",
@@ -79,15 +83,21 @@
     "large-onions-attack",
     "late-lions-crash",
     "light-singers-lie",
-    "long-yaks-care",
+    "live-query-keep-alive",
+    "modern-dodos-hang",
     "nasty-impalas-wear",
     "nine-coins-cheer",
     "nine-suns-nail",
     "pink-cobras-rush",
     "plenty-cougars-wave",
     "polite-lemons-refuse",
+    "quiet-ravens-smile",
+    "rolldown-min-version",
     "salty-chefs-sleep",
     "shiny-feet-crash",
-    "spicy-drinks-build"
+    "sort-manifest-readdir",
+    "spicy-drinks-build",
+    "stale-monkeys-type",
+    "wise-pumas-deny"
   ]
 }
